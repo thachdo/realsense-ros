@@ -1,3 +1,5 @@
+> Prevent screen auto rotating `sudo apt-get remove iio-sensor-proxy`
+
 # ROS2 Wrapper for Intel&reg; RealSense&trade; Devices
 These are packages for using Intel RealSense cameras (D400 and L500 series, SR300 camera and T265 Tracking Module) with ROS2.
 
